@@ -4,7 +4,6 @@
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
-#include "SOIL.h"
 #include "Leap.h"
 
 #define PI 3.1415926
